@@ -1,0 +1,13 @@
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+data/
+datasets/
+*.zip
+models/
+*.pth
+*.pt
+.env
